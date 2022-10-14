@@ -6,5 +6,5 @@
 3)replace aud and private key</br>
 4)npm i (if this does,nt work try npm i --force)</br>
 5)run each node file by node filename.js</br>
-6)after this setup react app by this repository <a href="https://github.com/0xPranjl/ucpidkms">ucpidkms</a></br>
+6)after this setup react app by this repository <a href="https://github.com/ucpi/ucpikms-v1">ucpidkms</a></br>
 </h5>
